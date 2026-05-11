@@ -1,4 +1,3 @@
-/* Simple final project CSS for Jason Williams Portfolio */
 
 body {
   font-family: Arial, sans-serif;
@@ -171,8 +170,14 @@ footer a:hover {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.profile-pic {
+    width: 250px;
+    height: auto;
 }
 
 @media only screen and (max-width: 768px) {
